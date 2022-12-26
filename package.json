@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
@@ -11,5 +10,14 @@
   "dependencies": {
     "express": "^4.18.2",
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajratan41/Learning-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajratan41/Learning-backend/issues"
+  },
+  "homepage": "https://github.com/rajratan41/Learning-backend#readme",
+  "description": ""
 }
